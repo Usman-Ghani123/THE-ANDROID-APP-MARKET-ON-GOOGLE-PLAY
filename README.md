@@ -17,7 +17,7 @@ This repository load, clean and visualize the data of the apps in the google pla
 ## Usage
 
 ```bash
-$ python data manipulation.py
+$ python data_manipulation.py
 ```
 In this bar graph we visualized that how many apps were present under each category 
 ![image](https://github.com/Usman-Ghani123/THE-ANDROID-APP-MARKET-ON-GOOGLE-PLAY/blob/main/plots/Number%20of%20apps%20vs%20Categories.png) 
